@@ -23,8 +23,8 @@ A collection of quantitative trading strategies and market microstructure simula
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/quant-trading-projects.git
-cd quant-trading-projects
+git clone https://github.com/hren0707/Quant-Trading-Projects.git
+cd Quant-Trading-Projects
 
 # Install dependencies
 pip install -r requirements.txt
