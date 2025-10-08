@@ -1,5 +1,0 @@
-quant-trading-projects/
-├── 01_pairs_trading/    # Statistical arbitrage
-├── 02_limit_order_book/ # Market microstructure
-├── 03_intraday_momentum/# Technical strategy
-└── utils/               # Shared utilities
