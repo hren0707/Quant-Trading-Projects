@@ -1,5 +1,3 @@
-
-**Project-specific README.md** (example for pairs trading)
 ```markdown
 # Pairs Trading Strategy
 
