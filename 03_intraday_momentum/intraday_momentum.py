@@ -271,6 +271,6 @@ if __name__ == "__main__":
     # Analyze SPY (S&P 500 ETF)
     results, metrics = strategy.run_complete_analysis('SPY')
     
-    # You can also test with other symbols:
+    # Example tests with other symbols:
     # results, metrics = strategy.run_complete_analysis('QQQ')  # NASDAQ 100
     # results, metrics = strategy.run_complete_analysis('IWM')   # Russell 2000
